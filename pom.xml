@@ -24,12 +24,12 @@
   </dependencies>
   <distributionManagement>
         <repository>
-            <id>nexus-disc</id>
-            <url>http://localhost:8080/nexus/content/repositories/releases/</url>
+            <id>nexus-jdevt6a</id>
+            <url>http://192.168.20.2:8080/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus-disc</id>
-            <url>http://localhost:8080/nexus/content/repositories/snapshots/</url>
+            <id>nexus-jdevt6a</id>
+            <url>http://192.168.20.2:8080/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
